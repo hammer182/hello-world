@@ -25,7 +25,7 @@
     <br>
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>You agree to the <a href="#">Terms & Privacy</a> you usually don't read</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
